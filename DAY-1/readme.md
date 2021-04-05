@@ -1,6 +1,6 @@
 # <div align="center">**Day - 1/100**</div>
 
-### Youtube Video Link = <a href="Intended hyperlink">Link</a>
+### Youtube Video Link = <a href="Ihttps://youtu.be/PNPkN7KttVY">https://youtu.be/PNPkN7KttVY</a>
 
 ![Image of Day-1](https://github.com/adityakumar48/100DaysofLCBD/blob/master/DAY-1/DAY%20-%201.png)
 
