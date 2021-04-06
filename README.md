@@ -13,3 +13,6 @@
 1. Code minimum an hour every day for the next 100 days.
 2. Tweet your progress every day with the #100DaysofLCBD hashtag.
 3. What to learn write in readme.md File
+
+# Team
+• <a href="https://github.com/madhukarmayank">Mayank Madhukar </a> ❤️
