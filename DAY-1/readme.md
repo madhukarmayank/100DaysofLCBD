@@ -39,5 +39,3 @@ What is Domain Name |
 
 1. <a href="https://www.youtube.com/watch?v=Y4cRx19nhJk">https://www.youtube.com/watch?v=Y4cRx19nhJk</a>
 
-# Team
-• <a href="https://github.com/madhukarmayank">Mayank Madhukar </a> ❤️
